@@ -1,10 +1,10 @@
 import Layout from "@/components/layout";
-export default function Home() {
+export default function Blog() {
   return (
     <>
       <Layout
-        title="Manga - Nexus"
-        description="This is the home page"
+        title="Manga - Nexus - Blog"
+        description="This is the blog page"
       >
       </Layout>
     </>
